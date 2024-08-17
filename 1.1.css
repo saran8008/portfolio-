@@ -3,7 +3,9 @@
     /* background-color: black; */
    padding: 20px;
    border: 20px;
+  
 }
+
 .one ul,li,h1{
   display: inline;
   color: white; 
@@ -219,10 +221,14 @@ width: 40px;
 .footer{
     text-align: center;
     background-color: gray;
-    height: 50px;   
+    height: 100px;   
+    padding-top: 5px;
     
 }
-
+.Copyright{
+    font-size: small;
+    padding-top: 20px;
+}
 
 /* .bt1{
     width: 100px;
